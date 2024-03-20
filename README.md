@@ -12,3 +12,9 @@ Clock displayed on the desktop serves as a visual representation of work.
 
 --->When AM= white cat
 --->When PM = Black cat 
+
+--->Lines sections 
+The section on the circles also represent time units:
+Small circle = 60 seconds = 60 lines
+Middle circle= Short lines = 60 lines = 60 minutes , Long Lines = 12 =  minutes with step 5 
+Big circle= !2 lines = 12 hours 
